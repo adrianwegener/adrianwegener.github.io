@@ -288,6 +288,10 @@ h6 {
 
 /*------------about-------------*/
 
+#section_about {
+    margin-top: 300px;
+}
+
 .box {
     margin-top: 15px;
     margin-bottom: 15px;
