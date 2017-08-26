@@ -346,6 +346,12 @@ h6 {
 #examples_matter {
     
 }
+#examplepic {
+    width: 60%;
+    position: relative;
+    left: 20%;
+    margin-top: 50px;
+}
 
 
 /*-------------Slider----------------*/
@@ -539,6 +545,17 @@ a:-webkit-any-link {
     margin-top: -255px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 740px){
     #logo {
         height: 5vh;
@@ -615,7 +632,6 @@ a:-webkit-any-link {
     }
     .liftup{
         position: relative;
-        top: -150px;
     }
     .liftupsmall{
         position: relative;
@@ -638,6 +654,17 @@ a:-webkit-any-link {
     }
     .backies {
         display:none;
+    }
+    #welcome_text_container {
+        width: 100%;
+        left:0;
+        margin-left: 0;
+    }
+    .contact_text{
+        margin-top: -100px;
+    }
+    #examplepic {
+        margin-top: 20px;
     }
 }
 
