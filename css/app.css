@@ -6,7 +6,7 @@ body {
 .navigation {
     float: center;
     text-align: center;
-    font-family: 'Noto Serif', serif;
+    font-family: serif;
     color: #949494;
     margin-left: 20px;
     margin-right: 20px;
@@ -149,7 +149,7 @@ a:hover {
     -webkit-transform: translate(0, -50%);
     transform: translate(0, -50%);
     color: #fff;
-    font: normal 400 20px/1 'Noto Serif', serif;
+    font: normal 400 20px/1 , serif;
     letter-spacing: .1em;
     text-decoration: none;
     transition: opacity .3s;
@@ -207,47 +207,47 @@ a:hover {
 /*---------------Text------------------*/
 
 p {
-    font-family: 'Noto Serif', serif;
+    font-family: serif;
     color: white;
     font-size: 14px;
 }
 
 
 h1 {
-    font-family: 'Noto Serif', serif;
+    font-family:  serif;
     color: white;
     text-align: center;
 }
 
 h2 {
-    font-family: 'Noto Serif', serif;
+    font-family:  serif;
     color: #949494;
     font-size: 40px;
     text-align: center;
 }
 
 h3 {
-    font-family: 'Noto Serif', serif;
+    font-family:  serif;
     color: white;
     font-size: 25px;
 }
 
 h4 {
-    font-family: 'Noto Serif', serif;
+    font-family:  serif;
     color:#949494;
     font-size: 16px;
 }
 
 h5 {
-    font-family: 'Noto Serif', serif;
+    font-family:  serif;
     color:#949494;
     font-size: 16px;
 }
 
 h6 {
-    font-family: 'Noto Serif', serif;
+    font-family:  serif;
     color:#949494;
-    font-size: 13px;
+    font-size: 18px;
     z-index: 5;
     text-align: -webkit-center;
     bottom: -150px;
